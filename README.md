@@ -23,6 +23,11 @@ Except the snippets described below you can use all the [JavaScript snippets fro
 
 Below is a list of all available snippets and the triggers of each one. The **⇥** means the `TAB` key.
 
+
+| Trigger  | Content |
+| -------: | ------- |
+|`rncc→`   | react native class component |
+
 | Trigger  | Content |
 | -------: | ------- |
 | `rcc→`   | class component skeleton |
