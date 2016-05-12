@@ -406,5 +406,10 @@
     "prefix": "cwa",
     "body": "console.warn(${1:object});",
     "description": "Displays a message in the console but also displays a yellow warning icon along with the logged message"
+  },
+  "reactNativeClassCompoment": {
+    "prefix": "rncc",
+    "body": "import React, {Component} from 'react-native';\n\nclass ${1:componentName} extends Component {\n\trender() {\n\t\treturn (\n\t\t\t<view>\n\t\t\t\t$0\n\t\t\t</view>\n\t\t);\n\t}\n}\n\nexport default ${1:componentName};",
+    "description": "Creates a React Native component class with ES6 module system"
   }
 }
