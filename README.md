@@ -27,6 +27,8 @@ Below is a list of all available snippets and the triggers of each one. The **�
 | Trigger  | Content |
 | -------: | ------- |
 |`rncc→`   | react native class component |
+|`rnccp→`  | react native class component with prop types after the class |
+|`rncfc→`  | react native class component with contains all the lifecycle methods |
 
 | Trigger  | Content |
 | -------: | ------- |
