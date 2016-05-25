@@ -1,5 +1,6 @@
 # Reactjs
 ## VS Code Reactjs snippets 
+modify
 -------------------
 This extension contains code snippets for [Reactjs][react] and is based on the awesome [babel-sublime-snippets][babelsublime] package.
 
